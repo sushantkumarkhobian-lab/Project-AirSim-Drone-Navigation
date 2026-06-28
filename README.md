@@ -160,13 +160,10 @@ Project-AirSim-Drone-Navigation/
 │
 ├── sample_data/
 │   ├── advanced_drone_navigation_analytics1.csv
-│   └── advanced_drone_navigation_analytics2.csv
+│   └── advanced_drone_navigation_analytics3.csv
 │
 ├── sample_results/
-│   └── results12/
-│
-└── live_demo/
-    ├── (gifs will be added here)
+    └── results13/
 ```
 
 ---
@@ -286,15 +283,26 @@ The scripts must be placed here to correctly resolve the `projectairsim` Python 
 
 ---
 
-## Step 5: Verify Scene Config
+## Step 5: Verify Simulation Config
 
-Ensure the following scene config file is available in your Project AirSim installation:
+Ensure the following folder exists inside your Project AirSim installation:
+
+```text
+ProjectAirSim
+└── client
+    └── python
+        └── example_user_scripts
+            └── sim_config
+```
+
+Inside this folder, the required scene configuration files should be present, such as:
 
 ```text
 scene_basic_drone.jsonc
 ```
 
-This file is loaded automatically when the scripts connect.
+These configuration files are loaded automatically by the Project AirSim client during runtime.
+
 
 ---
 
