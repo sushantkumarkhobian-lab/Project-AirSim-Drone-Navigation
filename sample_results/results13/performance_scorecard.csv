@@ -1,0 +1,13 @@
+Category,Winner
+Actual_Time_Taken_Seconds,File_1
+Time_Error_Seconds,File_1
+Final_Position_Error_m,File_1
+Max_Position_Error_m,File_1
+Total_Distance_Travelled_m,File_1
+Average_Speed_mps,File_3
+Battery_Used_Percent,File_1
+Battery_Remaining_Percent,File_1
+Path_Efficiency_Percent,File_1
+Overall Winner,File_1
+File_1 Wins,8
+File_3 Wins,1

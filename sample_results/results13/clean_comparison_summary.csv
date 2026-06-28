@@ -1,0 +1,10 @@
+Metric,File_1,File_3,Better_Run,Improvement_Percent
+Actual_Time_Taken_Seconds,5.0037,5.0082,File_1,0.09
+Time_Error_Seconds,0.0038,0.0082,File_1,54.55
+Final_Position_Error_m,0.7935,1.0982,File_1,27.75
+Max_Position_Error_m,9.988,10.1748,File_1,1.84
+Total_Distance_Travelled_m,9.6775,9.855,File_1,1.8
+Average_Speed_mps,1.934,1.9678,File_3,-1.75
+Battery_Used_Percent,2.425,2.5375,File_1,4.43
+Battery_Remaining_Percent,93.975,93.6725,File_1,-0.32
+Path_Efficiency_Percent,104.3175,102.525,File_1,-1.75

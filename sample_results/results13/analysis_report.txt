@@ -1,0 +1,26 @@
+DRONE NAVIGATION COMPARISON REPORT
+=============================================
+Compared Runs: File_1 vs File_3
+
+SUMMARY
+---------------------------------------------
+File_1 Wins: 8
+File_3 Wins: 1
+Overall Better Run: File_1
+
+METRIC-WISE ANALYSIS
+---------------------------------------------
+Actual_Time_Taken_Seconds: File_1 performed better by approximately 0.09%.
+Time_Error_Seconds: File_1 performed better by approximately 54.55%.
+Final_Position_Error_m: File_1 performed better by approximately 27.75%.
+Max_Position_Error_m: File_1 performed better by approximately 1.84%.
+Total_Distance_Travelled_m: File_1 performed better by approximately 1.8%.
+Average_Speed_mps: File_3 performed better by approximately -1.75%.
+Battery_Used_Percent: File_1 performed better by approximately 4.43%.
+Battery_Remaining_Percent: File_1 performed better by approximately -0.32%.
+Path_Efficiency_Percent: File_1 performed better by approximately -1.75%.
+
+INTERPRETATION
+---------------------------------------------
+Lower time error, final position error, maximum position error, travelled distance, and battery usage indicate better control quality.
+Higher average speed, battery remaining, and path efficiency indicate better performance and energy efficiency.
