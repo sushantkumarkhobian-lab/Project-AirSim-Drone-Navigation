@@ -577,6 +577,36 @@ Example comparison reports and generated graphs.
 
 ---
 
+# Demo
+
+<table>
+<tr>
+<td align="center">
+
+## Weather Control Menu
+
+<a href="https://youtu.be/M3eCAiOqtdU" target="_blank">
+  <img width="1904" height="966" alt="Screenshot 2026-06-30 181920" src="https://github.com/user-attachments/assets/6f7de78f-846a-4af2-9baf-a5ba1ebf31c1" />
+</a>
+
+</td>
+
+<td align="center">
+
+## Navigation Menu
+
+<a href="https://youtu.be/UQrnSosRddU" target="_blank">
+  <img width="1903" height="969" alt="Screenshot 2026-06-30 181753" src="https://github.com/user-attachments/assets/d4675599-2ada-4ed3-966d-3af40c071450" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+Click any thumbnail to watch the demo on YouTube.
+</p>
+
 # Future Improvements
 
 - Custom Unreal Engine 5 Environments
